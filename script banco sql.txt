@@ -1,0 +1,11 @@
+create table funcionarios(
+
+nome varchar(150),
+Sexo varchar(150),
+Pis varchar(15),
+Cpf varchar(15),
+Salario varchar(50), 
+Email varchar(150),
+DataAdmissao varchar(50),
+
+);
